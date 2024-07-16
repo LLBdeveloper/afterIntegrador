@@ -8,8 +8,7 @@
     "stock": "150",
     "category": "Almacen",
     "status": true,
-    "thumbnails": [],
-    "id": 1
+    "thumbnails": []
   },
   {
     "title": "Cafe",
@@ -20,8 +19,7 @@
     "stock": "150",
     "category": "Almacen",
     "status": true,
-    "thumbnails": [],
-    "id": 2
+    "thumbnails": []
   },
   {
     "title": "Harina",
@@ -32,8 +30,7 @@
     "stock": "150",
     "category": "Almacen",
     "status": true,
-    "thumbnails": [],
-    "id": 3
+    "thumbnails": []
   },
   {
     "title": "Palpitos",
@@ -44,7 +41,6 @@
     "stock": "10000",
     "category": "Almacen",
     "status": true,
-    "thumbnails": [],
-    "id": 4
+    "thumbnails": []
   }
 ]
