@@ -2,7 +2,7 @@ import express from "express";
 import CartManager from "../dao/fs/cart-manager.js";
 
 const router = express.Router();
-const cartManager = new CartManager("./src/models/carts.json");
+const cartManager = new CartManager("./src/dao/fs/data/carts.json");
 
 //1) Creamos un nuevo carrito: 
 router.post("/", async (req, res) => {
